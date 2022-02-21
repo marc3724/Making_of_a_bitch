@@ -20,6 +20,7 @@ public class Main {
          You turn me on like a light switch
          When you're movin' your body around and around
          Now, I don't wanna fight this (no)
+         You know how to just make me want
 
          I got it from my daddy
     I got it from my daddy
