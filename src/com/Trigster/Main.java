@@ -15,6 +15,7 @@ public class Main {
 
          All of a sudden, I'm hypnotized
          You're the one that I can't deny
+         Every time that I say I'm gonna walk away
          */
     }
 }
