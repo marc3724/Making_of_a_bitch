@@ -9,5 +9,6 @@ public class Main {
         // When you only wanna do me dirty? (Uh-huh-uh)
         // But I hit right back 'cause you got that, that, yeah
         //Why you always wanna act like lovers?…
+        // But you never wanna be each other's (uh-huh-uh)
     }
 }
