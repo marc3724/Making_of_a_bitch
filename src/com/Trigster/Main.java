@@ -22,6 +22,8 @@ public class Main {
          Now, I don't wanna fight this (no)
          You know how to just make me want
 
+         You turn me on like a light switch
+
          I got it from my daddy
     I got it from my daddy
     I got it, got it (hey, where did you get that body from?)
